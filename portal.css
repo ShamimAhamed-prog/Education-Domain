@@ -2,14 +2,14 @@
     box-sizing: border-box;
   }
   img{
-      width: 90%;
+      width: 100%;
   }
 .navbar-custom{
-      background-color:lightskyblue;
+      background-color: rgb(193, 245, 252);
   }
   a.navbar-brand {
     height: 60px;
-    width: 64;
+    width: 64px;
     display: inline-block;
     padding: 1px 0;
   }
@@ -17,5 +17,5 @@
     float: right!important;
 }
 form{
-    background-color: lightskyblue;
+    background-color: rgb(193, 245, 252);
 }

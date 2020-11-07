@@ -1,0 +1,14 @@
+body {
+    padding: 0;
+    margin: 0;
+    background: #f2f6e9;
+  }
+  
+  /*--- navigation bar ---*/
+  .wrapper{
+    background-image: url(Img/uni.jpg);
+    background-size: cover;
+  }
+.top-nav .img{
+   width: 10%;
+  }

@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+  }.form-container{
+      
+    border: 1px solid #fff;
+    padding: 60px 60px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    height: 400px;
+    width: 400px;;
+    border-radius: 10%;
+    -webkit-box-shadow: -1px 4px 25px 11px rgba(0,0,0,0.21);
+    -moz-box-shadow: -1px 4px 25px 11px rgba(0,0,0,0.21);
+    box-shadow: -1px 4px 25px 11px rgba(0,0,0,0.21);
+}
+.head{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+      text-transform: uppercase;
+    font-size: 19px;
+    color: rgb(16, 12, 233); s
+}
+img{
+    width: 10%;
+    position: relative;
+}
